@@ -1,0 +1,8 @@
+Total Rows: 20800, Columns: 6
+Missing values before cleaning: 2554
+Missing columns handled: headline, written_by, news
+Data types: {dtype('int64'): np.int64(3), dtype('O'): np.int64(3)}
+Numerical features: ['Unnamed: 0', 'id', 'label']
+High correlation between label and Unnamed: 0: 0.00
+High correlation between id and Unnamed: 0: 0.00
+High correlation between id and label: 0.00
